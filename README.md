@@ -1,7 +1,11 @@
+# Secret_Code 
+<h1>Frontend Technologies</h1>
+# React + Vite , #React.js , #Tailwind CSS , #Toastify , #UUID (Universally Unique Identifier) ,
+<br>
+<h1>Backend Technologies</h1>
+#Node.js ,#Express.js ,#MongoDB ,#dotenv ,#body-parser ,#CORS (Cross-Origin Resource Sharing) ,#
 <h1>Password Manager API</h1>
-
 This is a simple API for managing passwords using Node.js, Express, and MongoDB. The application supports CRUD operations for password management.
-
 <h2>Features</h2>
 
 -->Add a new password
@@ -44,15 +48,3 @@ Description: Saves a new password.<br>
   "success": true,
   "result": { ... }
 }
-
-
-
-
-
-
-
-
-
-
-# Secret_Code
-# React + Vite
